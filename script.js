@@ -5,5 +5,5 @@ button.addEventListener("click", () => {
 
 
     // Add your own console.log here during the lecture.
-    console.log("hi");
+    console.log("Hello! I just changed this!");
 });
